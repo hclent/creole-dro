@@ -44,17 +44,17 @@ pip install torch-geometric
 ### Data
 
 Naija:
-[Pidgin UNMT Corpus](https://github.com/keleog/PidginUNMT/tree/master/corpus)
-[Naija SUD](https://github.com/surfacesyntacticud/SUD_Naija-NSC)
+* [Pidgin UNMT Corpus](https://github.com/keleog/PidginUNMT/tree/master/corpus)
+* [Naija SUD](https://github.com/surfacesyntacticud/SUD_Naija-NSC)
 
 Singlish:
-[Singlish SMS Corpus](https://datasetsearch.research.google.com/search?query=singapore&docid=kqHXm0QYCrFZ229DAAAAAA%3D%3D)
-[Singlish UD data](https://github.com/wanghm92/Sing_Par)
+* [Singlish SMS Corpus](https://datasetsearch.research.google.com/search?query=singapore&docid=kqHXm0QYCrFZ229DAAAAAA%3D%3D)
+* [Singlish UD data](https://github.com/wanghm92/Sing_Par)
 
 Haitian: 
-[CMU Parallel Haitian-English Data](http://www.speech.cs.cmu.edu/haitian/text/)
+* [CMU Parallel Haitian-English Data](http://www.speech.cs.cmu.edu/haitian/text/)
 
-If you would like access to the Haitian Disaster Response Corpus, please contact the original authors of this work. 
+If you would like access to the Haitian Disaster Response Corpus, please contact the original authors of that work. 
 
 ### Data pre-processing
 
