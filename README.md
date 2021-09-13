@@ -1,7 +1,10 @@
 ## [UNDER CONSTRUCTION] "On Language Models for Creoles"
 
-This is the associated code for the CoNLL 2021 paper "On Language Models for Creoles"
+This is the associated code for the CoNLL 2021 paper "On Language Models for Creoles". 
 
+### Our Models on Hugging Face
+
+Link forthcoming before CoNLL! 
 
 ### Environment Setup
 
@@ -64,8 +67,6 @@ Edit `main()` of `make_datasets.py`, as needed.
 
 ### Baseline pipeline
 
+### Experiment pipelines
+
 See `/experiments` for examples on how to train experiments. See `/experiments/creole-only/eval` for examples of evaluating the systems. 
-
-### Our Models on Hugging Face
-
-**TODO** Put the URL here
