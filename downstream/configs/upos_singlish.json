@@ -1,0 +1,14 @@
+{
+    "UD": {
+        "train_data_path": "data/eval/singlish/ACL17_UD_dataset/treebank/gold_pos/train.conll",
+        "validation_data_path": "data/eval/singlish/ACL17_UD_dataset/treebank/gold_pos/dev.conll",
+        "word_idx": 1,
+        "tasks": {
+            "upos": {
+                "task_type": "seq",
+                "column_idx": 3
+            }
+        }
+    }
+}
+
